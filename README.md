@@ -2,6 +2,15 @@
 This repository will contain multiple **agents**, **red team (jailbreak) data** and **red teaming (jailbreaking) methods**
 related with **Browser Agents**.
 
+## Demo Video
+#### AI Agents falling into Mail Phishing
+https://github.com/user-attachments/assets/e1ec5084-ff64-4ec8-b516-176a02e08586
+
+#### AI Agents passing Captcha
+https://github.com/user-attachments/assets/582f698d-bf1b-418f-8a12-6b542a3d3628
+
+
+
 ## Support
 ### AI Agents
 - Claude For Computer Use (from Anthropic)
@@ -15,6 +24,7 @@ Fake websites to test on.<br>
 If you are testing on real websites, skip this part. <br>
 
 Start running website server with the following command.
+
 ```bash
 python -m http.server -d fake_websites 8000
 ```
